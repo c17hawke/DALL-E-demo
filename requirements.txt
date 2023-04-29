@@ -2,3 +2,6 @@ notebook
 ipywidgets
 tqdm
 python-dotenv
+openai
+streamlit
+rembg
