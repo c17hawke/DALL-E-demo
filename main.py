@@ -3,6 +3,12 @@ from src.page1 import page1
 from src.page2 import page2
 from src.page3 import page3
 from src.page4 import page4
+import openai
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 pages = {
