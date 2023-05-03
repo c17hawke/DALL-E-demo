@@ -1,6 +1,10 @@
 # DALL-E-DEMO
 
-DALL-E API can perform the following as of now -
+## The demo can be seen in the following playlist -
+
+[![Playlist URL](input_images/thumbnail.png)](https://youtube.com/playlist?list=PLrdaCCBhU_hkEPpzhs5XtaUscJMB5h0cS)
+
+## DALL-E API can perform the following as of now -
 
 1. Image generation by text prompts
 2. Image variations by passing an image
