@@ -4,13 +4,21 @@ introduction = """
 Brief details about OpenAI DALL-E:
 
 ### What is OpenAI DALL-E?
-DALL-E is a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs². It can create original, realistic images and art from a text description¹. 
+
+DALL-E is a 12-billion parameter version of GPT-3 trained to generate images from text 
+descriptions, using a dataset of text–image pairs². It can create original, realistic 
+images and art from a text description¹. 
 
 ### What can OpenAI DALL-E do?
-DALL-E has a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images². DALL-E 2 can make realistic edits to existing images from a natural language caption³.
+
+DALL-E has a diverse set of capabilities, including creating anthropomorphized versions 
+of animals and objects, combining unrelated concepts in plausible ways, rendering text, 
+and applying transformations to existing images². DALL-E 2 can make realistic edits to 
+existing images from a natural language caption³.
 
 ### How does OpenAI DALL-E work?
-DALL-E works by using a dataset of text–image pairs to learn how to generate images from textual descriptions². It uses a 12-billion parameter version of GPT-3².
+DALL-E works by using a dataset of text–image pairs to learn how to generate images 
+from textual descriptions². It uses a 12-billion parameter version of GPT-3².
 
 ### How can I use OpenAI DALL-E?
 DALL-E is available in beta and can be used by signing up on their website⁵. 

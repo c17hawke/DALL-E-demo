@@ -8,7 +8,8 @@ def page2():
 
     with st.form(key='form'):
         prompt = st.text_input(label='Enter text prompt for image generation')
-        size = st.selectbox('Select size of the images', ('256x256', '512x512', '1024x1024'))
+        size = st.selectbox('Select size of the images', 
+                            ('256x256', '512x512', '1024x1024'))
         num_images = st.selectbox('Enter number of images to be generated', (1,2,3,4))
         submit_button = st.form_submit_button(label='Submit')
 
